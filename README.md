@@ -1,0 +1,2 @@
+# retalappComponent
+first npm packages
